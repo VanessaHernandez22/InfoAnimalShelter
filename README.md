@@ -1,6 +1,5 @@
 # InfoAnimalShelter
 Website that spreads awareness on other animal shelters.
-# Project 1 - *Simple Todo1*
 Submitted by: **Vanessa Hernandez**
 ## User Can
 
