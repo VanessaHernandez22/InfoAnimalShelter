@@ -1,8 +1,8 @@
 # InfoAnimalShelter 
-#[www.infoanimalshelter.com/](http://www.infoanimalshelter.com/)
+
 Website that spreads awareness on other animal shelters.
 Submitted by: **Vanessa Hernandez**
-## User Can
+## [www.infoanimalshelter.com/](http://www.infoanimalshelter.com/)
 
 The following **required** functionality is completed:
 
